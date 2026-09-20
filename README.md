@@ -63,4 +63,4 @@ Agent drafted all three analytic artifacts (mitigated: I recomputed the numbers,
 
 ## Contributing & license
 
-Found a factual error or a better integration/validation approach? Open an issue - see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the reproduction commands. Content licensed CC BY-NC-ND 4.0 ([`LICENSE`](LICENSE)).
+Found a factual error or a better integration/validation approach? Open an issue - see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the reproduction commands. Content licensed ([`LICENSE`](LICENSE)).
