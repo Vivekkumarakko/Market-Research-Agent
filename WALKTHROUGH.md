@@ -69,7 +69,7 @@ Outputs saved as `artifacts/01–03`.
 
 ## 6. Assemble & deliver
 
-1. Filled the course template section-by-section → `Research_Brief_WA_Market_Intelligence.docx` (python-docx; embeds the chart).
+1. Filled the course template section-by-section → `Research_Brief__Market_Intelligence.docx` (python-docx; embeds the chart).
 2. Uploaded `02–05` artifacts into the Space so a stakeholder finds everything in one place (`679_space_organized`, all statuses Ready).
 3. Zip = README + docs + artifacts + screenshots + `data/vgsales.csv` + docx → submitted on the lesson's **Submit Project** tab. Result: *Awaiting Review* (`695/696` screenshots).
 4. This repo mirrors the zip.
